@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @azshimes
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning swift and python
+- 👀 I’m interested in designing iOS apps
+- 🌱 I’m currently working with swift and just about to start with Unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - info@catalyststudios.app
 - ⚡ Fun fact: I enjoy mountain biking
 
 <!---
